@@ -1,0 +1,251 @@
+<resources>
+    <string name="app_name">AMRITA CSE COURSE</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fresher">Fresher</string>
+    <string name="title_activity_eng111">ENG111:COMMUNICATIVE ENGLISH</string>
+    <string name="title_activity_fresher_content">Fresher_content</string>
+    <string name="title_activity_chy100">CHY100:CHEMISTRY</string>
+    <string name="mat111_unit1_text">Linear systems of equations, Gauss elimination, rank of a matrix, linear dependence, Solutions of linear systems: existence, uinqueness, general form,eigen values, eigen vectors, some application of eigen values problems, symmetric, skew-symmetric and orthogonal matrices, complex matrices: Hermitian, Skew Hermitian, unitary, similarity of matrices, basis of eigen vectors, diagonalization.\n\n (Sections: 6.3,6.4,7.1,7.2,7.3,7.4 and 7.5) \n\n Limits and continuity. (Sections(in Textbook 1): 2.2,2.3,2.4,2.5,2.6)</string>
+    <string name="mat111_unit2_text">Derviatives,Curve sketching, improper intergral.(Sections(in textbook 1): 3.1,4.1,4.3,4.4,8.8) \n\n Basic concepts and ideas,exact differential equations,intergrating factors, orthogonal trajectories of curves (Sections: 1.1,1.5,1.8)</string>
+    <string name="mat111_textbook_1">1. "Calculus",G.B. Thomas Pearson Education,2009,Eleventh Edition</string>
+    <string name="mat111_unit3_text">Review of ys differential equations and bernoulli equation, modelling : mixing problem,electric circuits. Review of homogenous linear equations of second order, Euler-Cauchy equations, solution of undetermined coefficients, solution by variation of parameters. System of linear equation, Basic concepts and theory, homogenous systrems with constant coefficients, phase plane, critical points. Criterion for critical points and staility. (Sections: 1.6,1.7,2.1,2.2,2.3,2.6,2.9,2.10,3.1,3.2,3.3,3.4)</string>
+    <string name="mat111_textbook_2">2."Advanced Engineering Mathematics",E.Kreyszig,John wiley and Sons,2002,Eigth Edition</string>
+    <string name="eee100_unit1_text">Instruction to electrical engineering. System of units. Electric current,Coulomb\'s law,ohm\'s law,Faraday\'s law of electromagnetic induction, Kirchoff\'s laws,Amphere\'s laws /n Ideal independent current and voltage-sources; Reference directions and symbols, energy and power; R,L and C-parameters; Series and parallel combination of resistances,Capacitance and inductances, series-parallel circuits, superposition theorem, converesion of a voltage source to current source and vice-versa, voltage divider and current divider rule. Network reduction by star-delta transformation, analysis of dc circuits by Mesh-current and nodal methods.</string>
+    <string name="eee100_unit2_text">Transient analysis with energy storage elements(for RC-,RL- circuits with DC excitations). Writing differential equations for first order circuits, steady state solution of circuits contaning inductors and capacitors, initial and final conditions, transient response of RL and RC circuits(rise and decay).\n Sinusoidal steady state analysis: Generation of sinusoidal functions, average and effective values of periodic functions, instantaneous and average power, power factor, phasor representation of sinusoids, response of single elements(R,L and C) for sinusoidal excitation; phasor concept and phasor diagram; impedance and Admittance concepts; The series RL, series RC, series RLC circuits, complex power and power triangle, Introduction to 3-phase systems: Balanced 3-phase systems(STAR and DELTA connections)</string>
+    <string name="eee100_unit3_text">Magnetic circuits :MMF,magnetic flux,reluctance,flux density,analogy with electric circuits,analysis of magnetic circuits,self and mutual induced emfs,energy stored in a magnetic circuit.\n Transformers;construction and principle of operation of transformers,Emf equation.Three phase Induction motor:Types,construction,rotating magnetic field,principle of operation,slip,rotor induced emf.\n Measuring instruments, Different types of instruction to measure voltage,current power and energy</string>
+    <string name="eee100_textbook">Vincent Del Toro,"Electrical Engineering Fundamentals",Second Edition,Prentice Hall of India Private Limited,2003</string>
+    <string name="eee100_references">1. Giorgio Rizzoni,"Principles and Applications of Electrical Engineering",Fourth Edition,Tata Mcgraw-Hill Publishing Company Limited,2003 \n 2. Hughes,"Electrical Technology",Seventh Edition,Pearson Education Asia,2000</string>
+    <string name="mec100_unit1_text">Principles of statics:Introduction to vector approach-free body diagrams-forces in plane-forces in space-concurrent forces-resolution of forces-equilibrium of particle. \n Statics of rigid bodies in two dimensions and three dimensions;Moment of a force about a point-moment of a force about an axis-moment of a couple-equivalent force-couple system-rigid body eqilibrium-support reactions.</string>
+    <string name="mec100_unit2_text">Applications of static:Friciton-ladder friciton-wedge friciton-analysis of trusses-method of joints-method of sections. \n Centroid and center of gravity:Centroids of lines,areas and volumes-compositie bodies. \n Second moment of area-polar moment of inertia-mass moment of inertia-radius of gyration.</string>
+    <string name="mec100_unit3_text">Dynamics of particles:Kinematics of particles-rectilinear motion-relative motion-position,velocity and acceleration calculations in cyndrical coordinates.\n Dynamics of rigid bodies:General plane motion-translation and rotation of rigid bodies-Chasle\'s theorem-velocity and acceleration calculations in moving frames of references-Coriolis acceleration</string>
+    <string name="mec100_textbook">1. Shames, I.H,"Engineering Mechanics-Statics and Dynamics",4/e,Prentics-Hall of India Pvt. Ltd., 2003. \n 2. Beer,F.P and Johnston, E.R., "Vector Mechanics for Engineers-Statics and Dynamics",8/e,Mcgraw Hill International Book Co., 2008 </string>
+    <string name="mec100_references">1. Hibbler, R.C., "Engineering Mechanics",12/e,Pearson Education Pvt. Ltd.,2007 \n 2. Meriam,J.L, "Dynamics", 5//e,John Wiley and sons,2003 \n 3.K.L.Kumar, "Engineering Mechanics", 3//e,Tata Mcgraw Hill,2003</string>
+    <string name="mec181_unit1_text">Use of drawing instruments-drawing practice-lettering-dimensioning-sketching. \n\n Orthographic projections-projections of points;projection of lines;projections of planes;projection of solids. \n\n Section of solids; Intersection of solids;Development of surfaces. \n\n Orthographic views of three-dimensional solids.\n\n Isometric projection</string>
+    <string name="mec181_textbook">john, K.C.,Engineering Graphics for Degree,PHI Learning,2010</string>
+    <string name="mec181_references">1. Bhat N.D. and Panchal V.M - Engineering Drawing - Plane and solid Geometry,42e,Charoatar Publishing House,2000 \n\n 2.James D Bethune,Engineering Graphics with AutoCAD,2002,Peasrson Education,First reprint,2003\n\n 3. Narayana K.L. and Kannaiah P,Engineering Graphics,SciTech publications,Chennai,2003 \n\n 4. Waran J Luzadder and John M Duff, Fundamentals of Engineering Drawing,11e,Prentics Hall of India,New Delhi,1995 \n\n 5. K.R.Gopalakrishna,Engineering Drawing,2003,Subhas Publications</string>
+    <string name="chy181_unit_1">1. Estimation of Hardness of sample water. \n\n 2. Estimation of alkalinity of sample water. \n\n 3. Estimation of Kinetics of Ion Exchange reactions. \n\n 4. Estimation of HCL and CH<sub>3</sub>COOH by conductometric titration. \n\n 5. Estimation of Fe<sup>2+</sup> by potentiometric titration. \n\n 6. Phase diagram of two component system. \n\n 7. Determination of Corrosion rate and Inhibitor efficiency by weight loss method. \n\n 8. One step preparation of simple organic/inorganic compond. \n\n 9. Determination of molecular weight of polymer by viscosity method. \n\n 10. Adsorption by Activated charcoal method. \n\n (Any 9 experiments of the above list) \n\n Experiments for Demonstration \n\n 11. Desalination by Reverse osmosis \n\n 12. Estimation of Dissolved oxygen of sample water \n\n 13. Spectrophotometric analysis of trace element (Fe) in water</string>
+    <string name="eee180_unit_1">Electrical workshop: \n\n Study of safety devices such as fuse, MCB, ELCB and earthing-electrical power distribution in domestic installations, study of tools and accessories used in electrical wiring-wiring practice for staircase circuits,fluorescent lamp,hospital wiring and godown lghting-study of domestic appliances like Mixie,dan,Electric iron,Air conditior,Refrigerator-study of different types of electric lamps like Incandescent lamp,Fluorescent,CFL,Metal halide,Mercury vapour,Sodium vapour and halogen lamp. \n\n Personal computer hardware workshop: \n Study of basic components in a computer-study of basic components in a network-study of diagnostric tools for system and study of floppy disk controller-study of hard disk comntroller-drivers for different components-trouble shooting in printer-communication between two computers with null modem-transferring characters from PC to LCD. \n\n Electronics and basic microprocessor workshop: \n\n Identification of electronic components and study of measuring instruments-PCB fabrication and soldering practise-study of inter 8085 microprocessor trainer kit concepts.\n\n PIC microcontroller workshop: \n\n Introduction to MP lab simulator.Simulating and burning simple programmes on PIC 16F877A.</string>
+    <string name="cul101_unit_1">Introduction to Indian Culture; Introduction to Amma\'s life and Teachings;Symbols of Indian Culture;</string>
+    <string name="cul101_unit_2">Science and Technology in Ancient India;Education in Ancient India;Goals of Life-Purushurthas;Introduction to Vedanta and Bhagavad Gita;</string>
+    <string name="cul101_unit_3">Introduction to Yoga; Nature and Indian Culture;Values from Indiann History; Life and work of Great seers of India</string>
+    <string name="cul101_textbook">1. The Glory of India(in-house publication) \n\n 2. The Mother of Sweet Bliss(Amma\'s Life and Teachings)</string>
+
+    <string name="eng112_unit_1">Mechanics of writing:Grammer rules-punctuation-spelling rules-tone and style-graphical representation</string>
+    <string name="eng112_unit_2">Different kinds of written documents:Definitions-descriptions-instructions-recommendation-manuals-reports-proposals; Formal correspondence: Letter writing, including job applications with resume.</string>
+    <string name="eng112_unit_3">Techincal paper writing: Library reasearch skills-documentation style-document editing-proof reading-formatting. \n\n Practice in oral communication: Group discussion, interviews and technical presentations.</string>
+    <string name="eng112_reference">1. Hirish, Hebert. L "Essential Communication Strategies for Scientists, Engineering and Technology Proffesionals", II.Edition. New York: IEEE press,2002 \n 2. Anderson,Paul.V. "Technical Communication:A Reader-Centered Approach".V Edition. Harcourt Brace College Publication,2003. \n 3. Strunk,William Jr. and White. EB. "The Elements of Style" New York, ALliyan and Bacon,1999 \n 4. Riordan, G.Daniel and Pauley E:Steven, "Technical Report Writing Today" VIII Edition(Indian Adaption). New Delhi: Biztantra,2004.</string>
+    <string name="phy100_unit_1">Special theory of relativity:Frames of reference,postulates of special theory of relativity,time dilation,length contraction,relativistic mass,relativistic momentum,mass and enrgy,Lorentz transformation,velocity addition,Doppler effect. \n Physical background for quantum mechanics: Black body radiation,photoelectric effect,Compton effect,X-ray diffraction,pair production,de-broglie waves,uncertainity principle.</string>
+    <string name="phy100_unit_2"><b>Quantum mechanics:</b>Wave function,wave equation,Schrodinger equation(time dependent),expectation values-operators,eigen function and eigen values,Schrodinger equation(Steady state),particle in a box-finite potential,tunneling effect,quantum theory of hydrogen atom.</string>
+    <string name="phy100_unit_3"><b>Classical and quantum statistics:</b>Statisticaldistribution, Maxwell Boltzmann\'s statistics,molecular energies in an ideal gas,quantum statistics,Rayleigh Jean\'s formula, Planck\'s radiation law,free electron in a metal,electron energy distribution,specific heat of solids, evolution of stars. \n<b>Solid state physics:</b>Crystalline and amorphous solids-ionics crystals -covalent crystals-Van der Walls bond-metallics bond-Band theory of solids-semiconductor devices.</string>
+    <string name="phy100_textbook">Arthur beiser," Concepts of Modern Physics",Tata Mcgraw Hill,2003(6th edition)</string>
+    <string name="phy100_reference">1. T.Thompton and A.Rex,"Modern Physics for Scientists and Engineers", Fort Worth:Saunders,2000(2nd Edition) \n2. P.A.Tipler and R.A. Llewellen,"Modern Physics",New York:Freeman,1999(3rd Edition). \n 3. S.H.Patil,"Elements of Modern Physics",Tata McgrawHill,1989. \n 4. F.K.Richtmyer, H.Kennard, John N.Copper,"Modern Physics",Tata McGraw Hill,1995.</string>
+    <string name="mat112_unit_1">Vector and scalar functions,derivatives,curves,tangents,arc length,curves in mechanics,velocity and acceleration,gradient of a scalar field,directional derivative,divergence of a vector field,curl of a vector field.(Sections:8.4,8.5,8.6,8.9,8.10,8.11) \n Line Integral,line Integrals independent of path.(Sections:9.1,9.2)</string>
+    <string name="mat112_unit_2">Green\'s theorem in the plane,surface for surface integrals,surface integrals,triple integrals-Gauss divergence theorem,Stoke\'s theorem.(Sections:9.4,9.5,9.6,9.7,9.9)</string>
+    <string name="mat112_unit_3">Periodic function,trignometric series,Fourier series,functions of any period p=2L,even and odd functions,half range expansions(theorem statement only),complex Fourier series,applications of Parseval\'s identity.(Sections:10.1 to 10.5).Basic concepts,modeling ,vibrating string,wave equation,separation of variables,use of Fourier series,d\'Alembert\'s solution of the wave equation,heat equation;solution by Fourier series(Sections:11.1 to 11.5)</string>
+    <string name="mat112_textbook">"Advanced Engineering Mathematics",E.Kreyszig,John Wiley and Sons,2002,Eighth edition</string>
+    <string name="ece100_unit_1"><b>Physics of conductors and semiconductors:</b>conductors,semiconductors,silicon crystals,intrinsic semiconductiors,two types of flow,doping a semiconductor,two types of extrinsic semiconductors,unbiased diode,forward bias,reverse bias,breakdown,barrier potential and temperature,reverse biased diode,diode approximations. \n <b>Rectifiers and diodes:</b>half wave and bridge rectifiers. Filters,choke,imput filter,capacitor input filter,PIV and durge current,Zener diode,loaded Zener regulator,LED,photo diodes,Schottky diode,Varactor diode</string>
+    <string name="ece100_unit_2"><b>Basics of amplifiers:</b>Introduction to BJT and FET,BJT characteristics curvers and regions of operations,emitter and voltage divider bias of BJT,BJT as a switch,LED drivers,JFET characteristics,JFET biasing in Ohmic and active regions,transconductance,JFET amplifiers,depletion mode and enhancement mdoe MOSFET,CMOS</string>
+    <string name="ece100_unit_3"><b>Operational amplifiers and linear ICs:</b>differential amplifier,introduction to Opamps,inverting and non-inverting amplifier,comparators,instrumentation amplifier,summing amplifier,voltage follower. \n <b>Oscillators:</b>Theory of sinusoidal osciallations, Wein Bridge oscillator,Colpitts oscillator,Quartz Crystal oscillator,introduction to 555 timer,astable and monostable operation</string>
+    <string name="ece100_textbook">A.P Malvino,"Electronic Principles",Seventh Edition,TMH,2007</string>
+    <string name="ece100_refernce">1. J.Millman and C C Halkias,"Electronics Devices and Circuits",TMH Edition,2005 \n 2. David. A. Bell,"Electroncis Devices and Circuits",Fifth Edition,Oxford University press \n 3. I.J. Nagrath,"ELectronic Devices and Circuits",Prentice-Hall of India</string>
+    <string name="cse100_unit_1">Introduction to problem solving-algorithm development,flowcharting. C fundatamentals, datatypes, variables, constants, enumerations, operators, bitwise operators, expression, type case, data input and output statements-formatted and unformatted,control structures-if,if else,switch..case,while loop,do..while,for loop,continue,break,goto. Arrays-defining an array processing an array,multidimensional arrays.</string>
+    <string name="cse100_unit_2">Strings,string handling functions. User defined functions-defining a function,function prototypes,calling a function,passing arguments to a function, recursion. Variable scope-auto,extern,static,register.Pointers-declaration, call y reference,functions returning pointer,pointer arithmetic. Pointer to pointer,pointers and arrays-pointer to array, array t pointers, dynamic memory allocation,malloc(),calloc(),free()</string>
+    <string name="cse100_unit_3">Structures-declaration, initialization,bitfields,opearations on structures. Arrays,pointers and structures as members of structure.Array of structures,Structures and functions,pointers to structures. Files-file operations for binary and text file,file I/O statements-fscanf,fread,fwrite. Random file access-rewind ,ftell,fseek. Command line arguments. Preprocesspr-macros</string>
+    <string name="cse100_textbook">Byron S Gottfried,"Schaums\'s Outline Of Theory and Problems of Programming with C",Second Edition,TMH Publishers</string>
+    <string name="cse100_references">1. Herbery schildt,"The Complete reference, C" Fourth edition,Tata-McGrawHill \n\n 2.Yashavant Kanetkar,"Let us C",Second Edition</string>
+    <string name="mec180_unit_1">Product Detailed workshop:(Study of simple mechanical and electromechanical system)\n\n Disassemble the product or sub assembly-measure various dimensions using measuring instruments-free hand rough sketch of the assembly and components-name the components and indicate the various materials used-study the functioning of the assembly and parts-study the assembly and components design for compactness,processing,ease of assembly and disassembly-assemble the product or subassembly \n\n <bold>Pneumatics and PLC workshop:</bold>Study of pneumatic elements-design and assembly of simple circuits using basic pneumatic elements-design and assembly of simple circuits using electropneumatics.Study of PLC and its applications-simple programming using ladder diagrams. \n\n <bold>Sheet metal workshop</bold>:Study of tools and equipmetn-draw development drawing of simple objects on sheet metal(cone,cylinder,pyramid,prism,tray,etc.)-fabrication of components using small shearing and beinding machines-riveting and painting practice. \n\n <bold>Welding workshop:</bold>\nstudy of tools and equipment-study of various welding methods-arc welding practice and demonstration of gas welding and cutting. \n Demo and practice workshop</string>
+    <string name="mec182_unit_1">Introduction to CAD \n\n Preparation of drawing using CAD Tools \n\nIntroduction to VBA/LISP \n\n Introduction to 3D modelling and Surface Modelling</string>
+    <string name="phy181_unit_1"><bold>Experiments on mechanics</bold>1. Torsional pendulum.\n 2.Co-efficient of viscosity of liquid. \n 3. Young\'s modulus-non uniform bending. \n\n <bold>Experiments on optics</bold>\n 1. Determination of lycopodium poder particle size using laser. \n 2. Dispersive power of prism \n 3. Newton\'s ring. \n 4. <bold>Experiments on electricity</bold>\n 1. Meter bridge/energy gap. \n 2. Frequency of AC-current \n 3. Temperature co-efficient of resistance</string>
+    <string name="cse180_unit_1">1. Programs using various input/output statements(scanf,printf,getchar,gets,puts,putchar) \n 2. Programs using bitwise operators and enumerated data types \n 3. Progreams using control structures(if,if else,switch and loops) \n 4. Programs using numeric one dimensional array \n 5. Programs using numeric multidimensional array \n 6. Programs using strings and string handling functions \n 7. FUnctions using static,external and auto variables \n 8. Programs using recursive function</string>
+    <string name="cul102_unit_1">Bhagavad Gita and Life Management;Historicity of Ramanayan and Mahabharata;Overview of Patanjal\'s Yoga sutras</string>
+    <string name="cul102_unit_2">Highlights of Indian Mythology;Indian Society:its Strengths and Weaknessess;ROle and position of Women in Indian Society</string>
+    <string name="cul102_unit_3">Indian Models of Economy,Business and Management;Health and Lifestyles related issues;Conservation of cultural heritage; Life and work of Great seers of India(2)</string>
+    <string name="cul102_textbook">1. The Glory of India(in-house publication) \n 2. Sanatana Dharma</string>
+    <string name="title_activity_sophomore">sophomore</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_sophomore_content">sophomore_content</string>
+    <string name="title_activity_senior">senior</string>
+    <string name="title_activity_senior_content">senior_content</string>
+    <string name="cse300_unit_1">Introduction to operating sytems:Overview-types of systems-computer system operations-hardware protection-operating systems services-system calls-system structure-virtual machines. Process Management: process concepts=process scheduling</string>
+    <string name="cse300_unit_2">Process syncronization: critical section problem-synchronization hardware semaphores-classical problems of synchronization-critical regions-monitors-deadlocks-deadlock charactrerization-methods of handling deadlocks-deadlock prevention</string>
+    <string name="cse300_unit_3">Paging and segmentation-segmentation with paging-virtual memory-demand paging-process creation-page replacement-thrashing. \n Case study:threading concepts in operating systems,kernel structures.</string>
+    <string name="cse300_textbook">Siliberschatz and Galvin, "Operating System Concepts",Eighth Edition,John Wiley and Sons</string>
+    <string name="cse300_reference">1. Deitel. Deitel and Choffnes,"Operating Systems",Third Edition \n 2/ Tannenbaum A S, "Modern Operating Systems",Third Edition</string>
+    <string name="cse310_unit_1">The Internet: the network edge,the network core,delay,loss and throughput in packet switched networks,protocol layers and their service models. Principles os network applications: th web and HTTP, file transfer.</string>
+    <string name="cse310_unit_2">Transport layer: connection oriented transport-TCP,principles of congestion control, TCP congestion control. Introduction to network layer:virtual circuit and datagram networks</string>
+    <string name="cse310_unit_3">The link layer and Local Area Networks(LAN):Introduction and services,error-detection and correction techniques, multiple access protocols, link-layer addressing,ethernet,link-layer switches,PPP</string>
+    <string name="cse310_textbook">Kurose J F and Ross K W," Computer Networking: A Top-Down Approach",Fourth Edition, Addison-wesley</string>
+    <string name="cse310_reference">1. Tanenbaum A S,"Computer Networks", Third Edition,PHI 2004</string>
+    <string name="cse320_unit_1">Software engineering concepts: a generic view of process-categories of softwar-process models-perspective models-waterfall model-incremental models-evolutionary models</string>
+    <string name="cse320_unit_2">Requirement analysis: approaches-data modelling concepts-OO analysis-scenario-based modelling-flow oriented modelling-class based modelling-behavioural modelling. Design engineering:design process and quality-design concept-model-creating an architectural design</string>
+    <string name="cse320_unit_3">Performing user interface design-golden rules-userinteraface analysis and design-interface analysis-interface design steps-web engineering-attributes,layers,process and best practices-initiating,analysis,design</string>
+    <string name="cse320_textbook">Pressman R S,"Software Engineering-A Practitionaers\'s Approach",Sixth Edition,Tata McGrawHill</string>
+    <string name="cse320_reference">1. Sommerville I.,"Software Engineering",Sixth Edition,Addison Wesley \n 2. Fairley R, "Software Engineering Concepts',Seventh Edition,Tata McGraw Hill</string>
+    <string name="cse330_unit_1">Introduction:growth functions-recurrence relation-methods-master method. Sorting :Bubble-insertion sort-selection sort. Divide and conquer, Quick sort</string>
+    <string name="cse330_unit_2">Greedy algorithm:fractional knapsack problem-task scheduling problem. Dynamic programming: matrix multiplication problem</string>
+    <string name="cse330_unit_3">Graph alogorithms: Graph traversal(DFS, BFS with analysis)-biconnected components-strong connectivity, shortest path algorithms(along with analysis)-Djikstra-Bellman Ford-Floyd Warshall. All pair shortes path algorithm.</string>
+    <string name="cse330_textbook">Goodrich M T and Tamassia R,"Algorithm Design Foundations,Analysis and Internet Examples",John Wiley and Sons</string>
+    <string name="cse330_reference">1. Baase S and Gelder A V,"Computer algorithms-Introduction to Design and Analysis",Pearson Education Asia \n 2. Dasgupta S, Papadimitriou C and Vazirani U,"Algorithms", TataMcGraw Hill</string>
+    <string name="cse331_unit_1">Automate and languages: introduction finite automata-regular operations-nondeterministic finite automata-equivalanceof NFAs and DFAs</string>
+    <string name="cse331_unit_2">Contect free languages-Chomsky normal form-push down automata-pumping lemma for context free language</string>
+    <string name="cse331_unit_3">Computability theory: turing machnines-non deterministic turing machines-undecidability-PCP computation histories-reducibility</string>
+    <string name="cse331_textbook">Linz P,"An Introduction to Formal Language And Automata",Fourth Edition</string>
+    <string name="cse331_reference">1. Micheal Sipzer,"Introduction to the Theory of Computation",Second Edition \n 2. Martin and John,"Introduction to Languages and the Theory of Computation", New York</string>
+    <string name="cse340_unit_1">Introduction and the relational model:introduction to DBMS-data models. Structure of relational database-fundatmental relational algebra operations-additional relational algebra operations. SQL:background-SQL data types and schemas-integrity constraints</string>
+    <string name="cse340_unit_2">Entity-relationshop design issues-weak entity sets-extended E-R features-reduction to relational schemas. SQL and advanced SQL:nested sub-queries-complex queries-views-join relations-authorization-functions and procedural contructs</string>
+    <string name="cse340_unit_3">Decomposition using functional dependencies-decomposition using multi-valeus dependencies-PJNF and DKNF. Transcation management:transactions-concepts-stat-atomicity and durability-concurrent executions</string>
+    <string name="cse340_textbook">Silberschatz A,Korth H F and Sudharshan S,"Database System Concepts",Sixth Edition</string>
+    <string name="cse340_reference">1. Elmasri R and Navathe S B,"Fundamentals of Database Systems",Fifth edition \n 2. Date C J,"An introduction to Database Systems",Eight Edition</string>
+    <string name="cse221_unit_1">Introduction to the elements of programming languages:different types of programming languages-describing the syntax and semantics-lexical and syntax analysis-bindings-type checking</string>
+    <string name="cse221_unit_2">Introduction to LISP and scheme-building abstractions with procedures-the elements of programming procedures and the process they generate-formulating abstractions with higher-order procedures. Building abstractions with data introduction to data abstraction</string>
+    <string name="cse221_unit_3">Modularity,objects and state:assignment and local state-the environment model of evaluation-modeling with mutable data-concurrency-streams. Metalinguistic abstraction: the metacircular evaluator-lazy evaluation-variation on a scheme</string>
+    <string name="cse221_textbook">Abelson H and Sussman G J,"Structure and Interpretation of Computer Programs",Second Edition</string>
+    <string name="cse221_references">1. Sebesta R W,"Concepts of Programming Languages",Ninth Edition \n 2. Pierce B C,"Types and programming Languages",MIT Press</string>
+    <string name="cse230_unit_1">Introduction:abstract data type-arrays-classes-templates-STL. Stacks,queues,linked list and recursion:using recursion-linear,binary and multiple recursions,stack</string>
+    <string name="cse230_unit_2">Linked list-ADT,singly linked list,doubly linked list,circular linked list,stack and queue implementation.STL:vector-lists-sequences-iterators</string>
+    <string name="cse230_unit_3">Types of trees-binary search tree,AVL tree,(2,4) tree,red black tree. Graphs:ADT_data structure for graphs-basic traversal-directed graphs-weighted graphs</string>
+    <string name="cse230_textbook">1. Drozdek A,"Data Structures and Algorithms in C++"Third Edition \n 2. Goodrich M T,Tamassia R and Mount D M,"Data Structures and Algorithm in C++"</string>
+    <string name="cse230_reference">1. Kruse R,Tondo C L and LEung B,"Data structure and Progtam Design in C \n 2. Tremblay J P and Sorenson P G,"An Introduction to Data Structures with Applications",Second Edition</string>
+    <string name="cse390_unit_1">Java-features-structure-elements of Java-array,string,string buffer,vectors-methods-object oriented features-classes-constructors-method overloading-static members</string>
+    <string name="cse390_unit_2">Applet programming-AWT-graphics-event handling-exception handling-user defined exceptions-debugging Java programs-utilities and collections-command line argument-collection framework-wrapper classes-I/O streams</string>
+    <string name="cse390_unit_3">Swings-model view controller-building non blocking GUI-networking-TCP/IP socket programming-UDP socket Programming-RMI development lifecycles</string>
+    <string name="cse390_text">1. Arnold, Gosling and Holmes, "The Java Programming Language", Third Edition \n 2. Eckel B,"Thinking in Java",Second Edition</string>
+    <string name="cse391_unit_1">1. Working with objects using SQL for the following:data definition language:create,alter,grant,revoke,drop,truncate. Data manipulation language:select,insert,update,delete. \n 2. Constraints-queries: simple selection,projection and selection with conditions. \n 3. Functions:aggregate functions,group by,order by date and conversion functions. \n 4. Ser operator,joins,sub query: simple,nested,correlated,existence test</string>
+    <string name="cse392_unit_1">1. Basic Unix commands \n 2. Shell objects \n 3. Process creation \n 4. Scheduling algorithms \n 5. Pipes-shared memory-implementation of algorithms for critical section problem for two processes. \n 6. Semaphores-classical problems in semaphores. \n 7. Implement the banker\'s algorithm of deadlock avoidance</string>
+    <string name="cse393_unit_1">1. Analysis:requirement specification report. \n 2. Software requirement specification(SRS) preparation \n 3. Data Flow Diagram design \n 4. Use case model-identiying actors,identifying use cases,use case flow of events,data dictionary creation. Create use case realization. \n 5. Activity diagram-identifying activities,adding start and end states,state transitions. \n TOOL: Rational Rose with UML/Visual Modeler,VISO tool,Magic View. </string>
+    <string name="cse394_unit_1">1. Client server communication using basic socket communication \n 2. Experimental study of application protocols such as HTTP,FTP,SMTP using network packet sniffers and analyzers such as Ethereal. \n 3. Packet sniffers for understanding the TCP protocol. \n 4. File Transfer between nodes in a network.</string>
+    <string name="ece300_unit_1">Discrete rime signals and systems:Basic sequences and sequence operations-periodicity of sequences,discrete time systems-impulse reponse,linearity,time variance and time invariance,causality</string>
+    <string name="ece300_unit_2">Fourier transforms:Discrete fourier series for periodic sequences,discrete fourier transform and properties,circular convolution,linear convolution and DFT relationship</string>
+    <string name="ece300_unit_3">Filter design techniques:Filter specifications,analog filters(Butterworth filter may be studied in detail),IIR filter design using impulse invariance and bilinear transformation,FIR filter design</string>
+    <string name="ece300_textbook">Oppenheim A V,Schraffer R W,"Discrete Time Signal Processing",Second Edition</string>
+    <string name="ece300_reference">1. Proakis J G and Manolakis G,"Digital Signal Processing Principles,Algorithms,Applications"</string>
+    <string name="title_activity_finals">finals</string>
+    <string name="title_activity_final_content">final_content</string>
+
+    <string name="cse400_unit_1">Computer graphics fundamentals-overview of CG:video display-output primitives:points,lines-line drawing algorithms-circle generation algorithm-filled area primitives-attributes of output primitives.</string>
+    <string name="cse400_unit_2">Three-Dimensional(3D) object representation:fractals-geometrical transformation for 3D objects. Viewing and clipping:two-dimensional viewing clipping operations-three-dimensional viewing</string>
+    <string name="cse400_unit_3">Visible surface detection and Illumination models:visible surface detection methods-illumination models and surface rendering-polygon rendering methods:constant intensity shading,Gouraud shading,Phong shading.GUI and color models:GUI</string>
+    <string name="cse400_textbook">Hearn D and Baker P,"Computer Graphics C Version",Second Edition</string>
+    <string name="cse400_reference">1. Plastock R A and Kalley G,"Theory and Problems of Computer Graphics",Schaum\'s outline series \n 2. Foley J D D,Einer S K and Hughes J F,"Computer Graphics Priniciples and Practise",Second Edition</string>
+    <string name="cse421_unit_1">Introduction to internet:the domain name system-client/server model-internet services of the internet-ports-IP addresses-web architecture-parsing in browsers-web site design standards</string>
+    <string name="cse421_unit_2">J2EE:architecture-servlets,Java Server Pages-java Beans-building EJB applications</string>
+    <string name="cse421_unit_3">Middleware architecture:COBRA,MULE,ACTIVE,MQ</string>
+    <string name="cse421_textbook">1. Bates C,"Web Programming-Building Internet Application",Second Edition \n 2. Pitter K, Amato S and Callahan J et al,:Every Student guide to the Internet"</string>
+    <string name="cse430_unit_1">Overview of translators and different types of programming languages:bootstrap compiler,compilet-compiler,portable compiler,tombstone representation</string>
+    <string name="cse430_unit_2">Abstract syntax:semantic actions and AST-semantic analysis:symbol table,bindings and type checking-activation records</string>
+    <string name="cse430_unit_3">Instruction selection:maximal munch,dynamic programming,CISC machines-liveness analysis:dataflow equations-register allocation</string>
+    <string name="cse430_textbook">Appel, Andrew W.,"Modern Compiler Implementation in Java Cambridge,Uk"</string>
+    <string name="cse430_reference">1. Aho,Alfred V. sethi R, and Ullman J,"Compilers:Principles,Techniques and tools",Addison-Wesley</string>
+    <string name="cse490_unit_1">1. Graphics mathematical function Ex: y=ax+b,coordinate axis display,line graph,bar graph,histogram and piechart. \n 2. Line drawing,algorithms(drawing line with different attributes:width,tyoe-solid,dotted,dash,dot,dash) \n 3. Circle drawing algorithms(drawing circle with different attributes:width,type-solid,dotted,dash,dot and dash,display each dot of the circle as another circle,use random colors) \n 4. Translation(simple translation for basic geometric objects-(square and triangle),create an animation:movind car-in a straight line path in randomposition).</string>
+    <string name="cse491_unit_1">1. Program for performing the operations on languages \n 2. Program to implement the lexical analyzer using DFA. \n 3.Program for constructing NFA using Thompson\'s algorithm.</string>
+    <string name="cse497_unit_1">Each student is to prepare a seminar paper related to Computer Science and Engineering in an approved format and present it at the end of the semister.No weekly slot to be alloted for presentation.</string>
+    <string name="cse499_unit_1">The project shall be focused on the synthesis of the knowledge gained over the past seven semesters,by taking up a work of relevance to the area of specialization covering-design/development/realization/application/conceptual ideas/state-of-the-art technology.A report should be submitted in approved format before final examination</string>
+
+    <string name="mat211_unit_1">Complex numbers, complex plane, polar form of complex numbers. Powers and roots, derivative. Analytic functions, Cauchy-Riemann equations, Laplace equation, conformal mapping, exponential function, trigonometric functions, hyperbolic functions, logarithms, general power, linear fractional transformation. (Sections: 12.1, 12.2, 12.3, 12.4, 12.5, 12.6, 12.7, 12.8, 12.9)</string>
+    <string name="mat211_unit_2">Complex line integral, Cauchy integral theorem, Cauchy integral formula, derivatives of analytic functions. (Sections: 13.1, 13.2, 13.3, 13.4) \nPower series, Taylor series and Maclaurin series. Laurent series, zeroes and singularities, residues, Cauchy residue theorem, evaluation of real integrals using residue theorem. (Sections: 14.4, 15.1, 15.2, 15.3, 15.4)</string>
+    <string name="mat211_unit_3">Laplace transforms, inverse transforms, linearity, shifting, transforms of derivatives and Integrals, differential equations, unit step function, second shifting theorem, Dirac\'s delta function. Differentiation and integration of transforms. Convolution, integral equations, partial fractions, differential equations, systems of differential equations. (Section: 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7) \nFourier integrals (Fourier integral theorem statement only), Fourier cosine and sine transforms, Fourier transforms. (Sections: 10.8 to 10.10)</string>
+    <string name="mat211_textbook">"Advanced Engineering Mathematics", E Kreyszig, John Wiley and Sons, 2002, Eighth Edition.</string>
+    <string name="mat220_unit_1">Logic, mathematical reasoning and counting: Logic, prepositional equivalence, predicate and quantifiers, functions, mathematical induction. Recursive definitions, recursive algorithms, basics of counting, pigeonhole principle, permutation and combinations. (Sections: 1.1-1.4, 2.1-2.6, 3.1-3.3 and 4.1) \n Relations and their properties: Cartesian products and relations, pigeonhole principle, function composition and inverse functions. (Sections: 5.1-5.6)</string>
+    <string name="mat220_unit_2">Representing relations, closure of relations, partial ordering, equivalence relations and partitions. (Sections: 7.1-7.4) \nAdvanced counting techniques and relations: Recurrence relations, solving recurrence relations, generating functions, solutions of homogeneous recurrence relations, divide and conquer relations, inclusion-exclusion. (Sections: 10.1-10.6)</string>
+    <string name="mat220_unit_3">Graph theory: introduction to graphs, graph operations, graph and matrices, graph isomorphism, connectivity, Euler and Hamilton paths, shortest path problem, planar graph, graph colorings and chromatic polynomials. (Sections: 11.1-11.6)</string>
+    <string name="mat220_textbook">R.P. Grimaldi, "Discrete and Combinatorial Mathematics", Pearson Education, Fifth Edition, 2007.</string>
+    <string name="mat220_references">1. Kenneth H. Rosen, "Discrete Mathematics and its applications", Tata McGraw-Hill Publishing Company Limited, New Delhi, Seventh Edition, 2007. \n2. Thomas Koshy, "Discrete Mathematics with applications", Academic Press, 2005. \n3. Liu, "Elements of Discrete Mathematics", TMH, 2004.</string>
+    <string name="cse220_unit_1">Comparision of various programming methodologies,OOPS concept,c and c++,compilers for c++,structure of a c++ prgram,revision of data types,control statements,arrays,insertion and extraction operators,manipulators.</string>
+    <string name="cse220_unit_2">Pointers and dynamic memory allocation with new and delete operators. Constructors and destructors,friend functions. Objects as members of classes,Friedn classes, Function overloading,overloading a constructor,this pointer.</string>
+    <string name="cse220_unit_3">Inheritance,types of inheritance,function overloading,virtual base class,run time polymorphism,virtual functions,pure virtual function,abstract class. Files and file handling.</string>
+    <string name="cse220_textbook">Lafore R,"Object Programming in C++",Fourth Edition</string>
+    <string name="cse220_reference">1. Deitel H M and Deitel P J,"C++ How to Program",Pearson Education,4th edition \n 2. Nagler E,"Learning C++:A Hands on Approach",Third Edition.</string>
+    <string name="cse210_unit_1">Computer abstractions and technology:introduction,classes of computing applications and their characteristics,classic components of a computer,memory system,moore\'s law,various technologies used for building processors and memories.</string>
+    <string name="cse210_unit_2">Arithmetic for computers:signed and unsigned numbers addition and subtraction,multiplication,division,floating point numbers.Assessing and understanding performance:CPU performance and its factors.</string>
+    <string name="cse210_unit_3">Pipeline and vector processing: an overview of pipelining, pipelined data path,pipeline control,data hazards and forwarding,data hazards and stalls,branch hazards. Memory hierarchy:introduction,the basics of cache memory,Pentium p4 and AMD opteron,</string>
+    <string name="cse210_textbook">Patterson D A and Hennessy J L.,"Computer Organization and Design",Third Edition</string>
+    <string name="cse210_reference">1. Patterson D A and Hennessy J L.,"Computer Architecture:A Quantitative Approach",Fourth Edition</string>
+</resources>

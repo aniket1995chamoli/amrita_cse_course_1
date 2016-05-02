@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.walter_white.amritacsecourse.finals">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#EEFF41">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SEMESTER VII"
+                android:textSize="25dp"
+                android:background="#EEFF41"/>
+
+            <Button
+                android:background="#EA80FC"
+                android:layout_width="match_parent"
+                android:id="@+id/cse400"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE400: COMPUTER GRAPHICS AND VISUALISATION"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="final_course"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/cse421"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE421: NET-CENTRIC PROGRAMMING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="final_course"/>
+
+            <Button
+                android:background="#607D8B"
+                android:layout_width="match_parent"
+                android:id="@+id/cse430"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE430: COMPUTER LANGUAGE ENGINEERING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="final_course"/>
+
+            <Button
+                android:background="#03A9F4"
+                android:layout_width="match_parent"
+                android:id="@+id/cse490"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE490: COMPUTER GRAPHICS AND VISUALISATION LAB"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="final_course"/>
+
+            <Button
+                android:background="#03A9F4"
+                android:layout_width="match_parent"
+                android:id="@+id/cse491"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE491: COMPUTER LANGUAGE ENGINEERING LAB"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="final_course"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/cse497"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE497: SEMINAR"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="final_course"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SEMESTER VIII"
+                android:textSize="25dp"
+                android:background="#EEFF41"/>
+
+            <Button
+                android:background="#EA80FC"
+                android:layout_width="match_parent"
+                android:id="@+id/cse499"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE499 PROJECT"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="final_course"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

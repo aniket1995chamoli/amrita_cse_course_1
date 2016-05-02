@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.walter_white.amritacsecourse.Fresher"
+    tools:showIn="@layout/activity_fresher">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#EEFF41">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SEMESTER I"
+                android:textSize="25dp"
+                android:background="#EEFF41"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/chy100"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CHY100: CHEMISTRY"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#607D8B"
+                android:layout_width="match_parent"
+                android:id="@+id/mat111"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MAT111: CALCULUS,MATR..."
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#FF5722"
+                android:layout_width="match_parent"
+                android:id="@+id/eee100"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="EEE100: ELECTRICAL ENGINEERING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#03A9F4"
+                android:layout_width="match_parent"
+                android:id="@+id/mec100"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MEC100: ENGINEERING MECHANINCS"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#03A9F4"
+                android:layout_width="match_parent"
+                android:id="@+id/mec181"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MEC181: ENGINEERING DRAWING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/chy181"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CHY181: CHEMISTRY LAB"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#FF5722"
+                android:layout_width="match_parent"
+                android:id="@+id/eee180"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="EEE180: WORKSHOP B"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#009688"
+                android:layout_width="match_parent"
+                android:id="@+id/cul101"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CUL101: CULTURAL EDUCATION 1"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SEMESTER II"
+                android:textSize="25dp"
+                android:background="#EEFF41"/>
+
+            <Button
+                android:background="#EA80FC"
+                android:layout_width="match_parent"
+                android:id="@+id/eng112"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="ENG112: TECHINCAL COMMUNICATION"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/phy100"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="PHY100: PHYSICS"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#607D8B"
+                android:layout_width="match_parent"
+                android:id="@+id/mat112"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MAT112: VECTOR CALCULUS,FOURIER SERIES,..."
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#FF5722"
+                android:layout_width="match_parent"
+                android:id="@+id/ece100"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="ECE100: ELECTRONICS ENGINEERING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#03A9F4"
+                android:layout_width="match_parent"
+                android:id="@+id/cse100"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE100: COMPUTER PROGRAMMING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#03A9F4"
+                android:layout_width="match_parent"
+                android:id="@+id/mec180"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MEC180: WORKSHOP A"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/mec182"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MEC182: COMPUTER AIDED DRAWING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#FF5722"
+                android:layout_width="match_parent"
+                android:id="@+id/phy181"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="PHY181: PHYSICS LAB"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#009688"
+                android:layout_width="match_parent"
+                android:id="@+id/cse180"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE180: COMPUTER PROGRAMMING LAB"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+            <Button
+                android:background="#009688"
+                android:layout_width="match_parent"
+                android:id="@+id/cul102"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CUL102: CULTURAL EDUCATION II"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="fresher_course"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

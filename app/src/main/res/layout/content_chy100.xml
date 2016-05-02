@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.walter_white.amritacsecourse.chy100"
+    tools:showIn="@layout/activity_chy100">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FFF59D">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:id="@+id/unit_1"
+            android:text="UNIT 1:"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="24dp"
+            android:textColor="#4CAF50"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:id="@+id/unit_1_text"
+            android:text="Water Technology: \n\n Hardness-units of hardness-alkalinity-dissolved oxygen-Boiler feed water-boiler compounds-boiler compounds-boiler problems-internal conditioning-external conditioning-zeolite and ion exchange process.Municipal water treatment-desalination by RO and electro dialysis \n\n Phase Rule: \n\n Phase rule-statement and explanation of terms-one component system-water-vapor-ice-thermal analysis-condensed phase rule-Two component system-Ag-Pb-simple Eutectic-compund formation-Cu-Au solid solution-Ellingham diagram and its application "
+            android:textSize="15dp"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="UNIT 2:"
+            android:fontFamily="sans-serif-thin"
+            android:id="@+id/unit_2"
+            android:textSize="24dp"
+            android:textColor="#4CAF50"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:id="@+id/unit_2_text"
+            android:text="Spectroscopy: \n\n Siginificance of spectroscopy as analytical tool-Electromagnetic spectrum,intensities of spectral lines and Beer-lamberts law.Vibration of diatomic molecules-Energy levels-Principles of selection rules-Introduction to IR spectrum-Vibrational frequency-fundamental vibrations-IR instrumentation and its applications-Electronic spectra-types of electronic transition-chromophore concept-absorption and intensity shifts-conjucated dienes-solvent effects-UV Instrumentation and its applications.Principles of H-NMR-number of signals-chemical shift-splitting of the signals \n\n Chemistry of corrosion and its control: \n\n Chemical and electro chemical corrosion-Pilling Bed worth ratio-forms of corrosion"
+            android:textSize="15dp"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="UNIT 3:"
+            android:id="@+id/unit_3"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="24dp"
+            android:textColor="#4CAF50"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:id="@+id/unit_3_text"
+            android:text="Electrochemical series-galvanic series-corrosion potential-corrosion current-rate of corrosion-units of corrosion-rate determination-weight loss method.Corrosion control-cathodic and anodic protection \n\n\ Advanced Engineering Materials: \n\n  Introduction to nanoscience and Technology-significance of nano materials-methods of synthesis-Carbon Nanotubes-synthesis-properties and applications. Conduction polymers-mechanism of condction-applications. Organic LEDs-their functioning-advantages and disadvantages over conventional LEDs-their commericial uses. Liquid crystals-positional and orientation order-classification of liquid crystals-requirement for substance to exhibit liquid crystalline state-chemical constitution-identification of liquid crystals-electro-optic effect in liquid crystals,application of liquid crystals"
+            android:textSize="15dp"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:id="@+id/textbook"
+            android:text="TEXTBOOKS:"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="24dp"
+            android:textColor="#64DD17"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:id="@+id/textbook_2"
+            android:text="1. Gordon M Barrow, 'Physical Chemistry',5th edition,Tata mcGrawHill(2007) \n 2. Jain P C and Monika Jain, 'Engineering Chemistry',Dhanpatrai Publishing Co Ltd, New Delhi(2005)"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#D50000"/>
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.walter_white.amritacsecourse">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/book_stack"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Fresher"
+            android:label="@string/title_activity_fresher"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".eng111"
+            android:label="@string/title_activity_eng111"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Fresher_content"
+            android:label="@string/title_activity_fresher_content"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".chy100"
+            android:label="@string/title_activity_chy100"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".sophomore"
+            android:label="@string/title_activity_sophomore"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".sophomore_content"
+            android:label="@string/title_activity_sophomore_content"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".senior"
+            android:label="@string/title_activity_senior"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".senior_content"
+            android:label="@string/title_activity_senior_content"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".finals"
+            android:label="@string/title_activity_finals"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".final_content"
+            android:label="@string/title_activity_final_content"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

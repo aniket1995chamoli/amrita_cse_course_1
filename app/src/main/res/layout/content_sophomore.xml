@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.walter_white.amritacsecourse.sophomore">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#EEFF41">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#EEFF41">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SEMESTER III"
+                android:textSize="25dp"
+                android:background="#EEFF41"/>
+
+            <Button
+                android:background="#EA80FC"
+                android:layout_width="match_parent"
+                android:id="@+id/mat211"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MAT211: INTEGRAL TRANSFORMS AND COMPLEX ANALYSIS"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="sophomore_course"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/mat220"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="MAT220: DISCRETE MATHEMATICS"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="sophomore_course"/>
+
+            <Button
+                android:background="#607D8B"
+                android:layout_width="match_parent"
+                android:id="@+id/cse220"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE220: OBJECT ORIENTED PROGRAMMING"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="sophomore_course"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SEMESTER IV"
+                android:textSize="25dp"
+                android:background="#EEFF41"/>
+
+            <Button
+                android:background="#009688"
+                android:layout_width="match_parent"
+                android:id="@+id/cse210"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE210: COMPUTER ORGANISATION AND ARCHITECTURE"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="sophomore_course"/>
+
+            <Button
+                android:background="#EA80FC"
+                android:layout_width="match_parent"
+                android:id="@+id/cse221"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE221: STRUCTURE AND INTERPREATATION OF COMPUTER PROGRAMS"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="sophomore_course"/>
+
+            <Button
+                android:background="@android:color/holo_green_light"
+                android:layout_width="match_parent"
+                android:id="@+id/cse230"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:text="CSE230: DATA STRUCTURES"
+                android:textColor="@android:color/background_light"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:onClick="sophomore_course"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>
